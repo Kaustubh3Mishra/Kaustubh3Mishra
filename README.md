@@ -4,9 +4,9 @@
 
 ![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaustubh&show_icons=true&count_private=true&theme=chartreuse-dark)
 
-## Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaustubh Mishra.
+## Hi There <img src="![wave](https://user-images.githubusercontent.com/69445549/117251858-d647f480-ae62-11eb-8942-4149ff0dc975.gif)" width="30px">, I'm Kaustubh Mishra.
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="![banner](https://user-images.githubusercontent.com/69445549/117251936-ed86e200-ae62-11eb-8268-b95248296ffd.png)" alt="Hello world">
 
 ## **About Me**
 - ✍️ A student of Second year B.E. in Computer Engineering.
