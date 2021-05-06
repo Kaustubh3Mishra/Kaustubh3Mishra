@@ -38,4 +38,4 @@ And of course GitHub you're already on (Recursion).[![GitHub followers](https://
 ---
 Contributions are welcome! <3
 
-Made with :heart: and `JavaScript`.
+Made with :heart: and `JavaScript`
