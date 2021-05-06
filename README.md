@@ -13,30 +13,6 @@
 - 🌱 I’m currently learning Web Development.
 - :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning.
 
-## **Pinned**
-<div>
-<a href="https://github.com/mkaustubh/GUI_TeamVaayushastra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaustubh&repo=GUI_TeamVaayushastra&theme=dark" />
-</a>
-
-<a href="https://github.com/mkaustubh/Suven-Consultants_internship_Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaustubh&repo=Suven-Consultants_internship_Java&theme=dark" />
-</a>
-
-<a href="https://github.com/mkaustubh/SoundWave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaustubh&repo=SoundWave&theme=dark" />
-</a>
-
-<a href="https://github.com/mkaustubh/SignUp-Form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaustubh&repo=SignUp-Form&theme=dark" />
-</a>
-
-<a href="https://github.com/mkaustubh/GUI_TeamVaayushastra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkaustubh&repo=GUI_TeamVaayushastra&theme=dark" />
-</a>
-</div>
-
-
 ## **Top Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkaustubh&langs_count=9&layout=compact&theme=radical)](https://github.com/mkaustubh/github-readme-stats)
