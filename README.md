@@ -34,7 +34,7 @@ Thanks! :heart: -->
 
 [![Mail Badge](https://img.shields.io/badge/-Kaustubh%20Mishra-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kaustubhmishra2001@gmail.com) [![Codewars Badge](https://www.codewars.com/users/mkaustubh/badges/micro)](https://www.codewars.com/users/mkaustubh) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-mishra-016a8a1b4/) [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/therealkaustubhmishra/)
 
-And of course GitHub you're already on (Recursion).[![GitHub followers](https://img.shields.io/github/followers/mkaustubh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mkaustubh)
+And of course GitHub [![GitHub followers](https://img.shields.io/github/followers/mkaustubh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mkaustubh) you're already on (Recursion) 
 ---
 Contributions are welcome! <3
 
