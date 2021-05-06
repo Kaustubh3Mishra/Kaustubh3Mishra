@@ -4,7 +4,7 @@
 
 ![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaustubh&show_icons=true&count_private=true&theme=chartreuse-dark)
 
-## Hi There <img src="![banner](https://user-images.githubusercontent.com/69445549/117252040-13ac8200-ae63-11eb-86c2-b52b60da00ae.png)" width="30px">, I'm Kaustubh Mishra.
+## Hi There <img src="https://user-images.githubusercontent.com/69445549/117252456-9c2b2280-ae63-11eb-8c0a-99fe28ac33a8.gif" width="30px">, I'm Kaustubh Mishra.
 
 <img src="https://user-images.githubusercontent.com/69445549/117251936-ed86e200-ae62-11eb-8268-b95248296ffd.png" alt="Hello world">
 
