@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/69445549/117251936-ed86e200-ae62-11eb-8268-b95248296ffd.png" alt="Hello world">
 
 ## **About Me**
-- ✍️ A student of Second year B.E. in Computer Engineering.
+- ✍️ A student of Third Year B.E. in Computer Engineering.
 - 🌱 I’m currently learning Web Development.
 - :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning.
 
