@@ -40,6 +40,7 @@ And of course GitHub [![GitHub followers](https://img.shields.io/github/follower
 Random Dev Jokes!<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ---
 Contributions are welcome! <3
 
