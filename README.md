@@ -1,6 +1,7 @@
 **Profile Views:**
 
-![Visitor Count](https://profile-counter.glitch.me/{mkaustubh}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{mkaustubh}/count.svg) -->
+![](https://komarev.com/ghpvc/?username=mkaustubh&color=blueviolet)
 
 ![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkaustubh&show_icons=true&count_private=true&theme=chartreuse-dark)
 
