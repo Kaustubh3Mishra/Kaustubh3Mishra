@@ -16,8 +16,8 @@
 
 
 ## **About Me**
-- ✍️ A student of Third Year B.E. in Computer Engineering.
-- 🌱 I’m currently learning Web Development.
+- ✍️ A student of Final Year B.E. in Computer Engineering.
+- 🌱 I’m currently learning Machine Learning.
 - :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning.
 
 
