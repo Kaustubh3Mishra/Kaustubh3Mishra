@@ -24,7 +24,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkaustubh&theme=tokyonight" alt="mkaustubh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh3Mishra&theme=tokyonight" alt="mkaustubh" /></p>
 
 
 
