@@ -2,7 +2,7 @@
 
 **Profile Views:**
 
-![Visitor Count](https://profile-counter.glitch.me/{mkaustubh}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Kaustubh3Mishra}/count.svg)
 <!-- ![](https://komarev.com/ghpvc/?username=mkaustubh&color=blueviolet) -->
 
 ## Hi There <img src="https://user-images.githubusercontent.com/69445549/117252456-9c2b2280-ae63-11eb-8c0a-99fe28ac33a8.gif" width="30px">, I'm Kaustubh Mishra.
